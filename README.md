@@ -1,8 +1,7 @@
 # Python_Based_ChatBot
 ## I developed python based GUI chatbot by implementing Tkinter module.
 
-#### Create a chatbot by using Chatterbot open source Library for python Tkinter This is an open-source framework and is available on platforms Like Unix and windows.
-#### It is one of the simplest and most popular ways to build a GUI-based application in Python.
+#### Create a chatbot by using Chatterbot open source Library for python Tkinter This is an open-source framework and is available on platforms Like Unix and windows. It is one of the simplest and most popular ways to build a GUI-based application in Python.
 
 ---
 
